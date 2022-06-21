@@ -33,7 +33,7 @@ https://github.com/elianacris/projeto-cubo
 2. Entre na pasta
 
 ```
-cd projeto-cubo
+cd projeto-case1-cubo-front
 ```
 
 3. Instale as dependências
